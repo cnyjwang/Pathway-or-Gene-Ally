@@ -1,3 +1,4 @@
 # Pathway-or-Gene-Ally
 
 Pathway analysis are widely used in almost every lab with projects involving gene expression. Usually, the lists of gene with > 2 fold diffrential expression are subject to pathway analysis through DAVID or other online tools. The pathway analysis assume genes in the same pathway would act similar. This analysis can not discover association among genes involved in different pathway. Machine learning algorithn like KMeans may provide information about group of genes (gene ally) that express correlatively. This projec is to explore the application of machine learning in uncovering some scerets that never been studied. 
+The downside of this research is that gene expression pattern among these five experiments are positive correlatively. Probably this is the reason why the scatter plot doesn't split. 
